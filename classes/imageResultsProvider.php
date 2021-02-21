@@ -78,18 +78,11 @@ class ImageResultsProvider {
 								</a>
 
 							</div>";
-
-
 		}
-
 
 		$resultsHtml .= "</div>";
 
 		return $resultsHtml;
 	}
-
-
-
-
 }
 ?>
